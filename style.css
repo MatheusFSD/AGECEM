@@ -467,4 +467,8 @@ footer {
     .serviços__card-single {
         width: 45%;
     }
+    
+    .quemsomos__textos-texto {
+        text-align: start;
+    }
 }
